@@ -8,6 +8,8 @@ public class push {
 		System.out.println("new code 2nd change");
 		
 		System.out.println("commit from the guy who cloned the repo");
+		
+		System.out.println("code change by architect");
 
 	}
 
